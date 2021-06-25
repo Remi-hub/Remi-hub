@@ -1,4 +1,6 @@
-![handlebars-24x24-1175025](https://user-images.githubusercontent.com/81576696/123418431-55cb8780-d5b9-11eb-9044-66822a9d80b0.png)
+![django-128x128-1175036](https://user-images.githubusercontent.com/81576696/123418509-6bd94800-d5b9-11eb-9e7c-3fa89c5a4959.png)
+![github-128x128-1174970](https://user-images.githubusercontent.com/81576696/123418527-6f6ccf00-d5b9-11eb-8d64-bd39ecc2b1bf.png)
+![pycharm-128x128-1175009](https://user-images.githubusercontent.com/81576696/123418540-7398ec80-d5b9-11eb-9a32-a171b312b72f.png)
 ## Hello world, i'm Rémi !
 
 ### I'm a student learning Python and Django !
