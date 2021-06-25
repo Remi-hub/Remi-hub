@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/81576696/123419063-15b8d480-d5ba-11eb-9d47-466b48fc5a2e.jpg)
 ## Hello world, i'm Rémi !
 
 ### I'm a student learning Python and Django !
