@@ -1,3 +1,4 @@
+![handlebars-24x24-1175025](https://user-images.githubusercontent.com/81576696/123418431-55cb8780-d5b9-11eb-9044-66822a9d80b0.png)
 ## Hello world, i'm Rémi !
 
 ### I'm a student learning Python and Django !
