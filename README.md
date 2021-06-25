@@ -5,7 +5,7 @@
 
 ### Tools I work upon : 🛠
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img srtc="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoutucode.fr%2Fles-frameworks-python-web&psig=AOvVaw0di62V-J6_uP1wzLBWr8N2&ust=1624706329094000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMj50u_UsvECFQAAAAAdAAAAABAD">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoutucode.fr%2Fles-frameworks-python-web&psig=AOvVaw0di62V-J6_uP1wzLBWr8N2&ust=1624706329094000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMj50u_UsvECFQAAAAAdAAAAABAD">
 <!--
 **Remi-hub/Remi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
