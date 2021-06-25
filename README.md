@@ -2,6 +2,9 @@
 
 ### I'm currently a student learning Python and Django !
 ### You can reach me by email : remi.krommenaker@gmail.com
+
+### Tools I work upon : 🛠
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> 
 <!--
 **Remi-hub/Remi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
