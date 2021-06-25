@@ -1,6 +1,6 @@
 ## Hello world, i'm Rémi !
 
-### I'm currently a student learning Python and Django !
+### I'm a student learning Python and Django !
 
 
 ### Tools I'm currently learning : 🛠
