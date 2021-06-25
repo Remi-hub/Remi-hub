@@ -1,6 +1,7 @@
-# Hi there 👋
+## Hello world, i'm Rémi !
 
-
+### I'm currently a student learning Python and Django !
+### You can reach me by email : remi.krommenaker@gmail.com
 <!--
 **Remi-hub/Remi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
