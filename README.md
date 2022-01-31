@@ -21,9 +21,7 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 <h3>Languages and Tools<h3>
   
   <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-   <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-   <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-   <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-   <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+  <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="100" height="100" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
