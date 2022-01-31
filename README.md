@@ -6,18 +6,13 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 
 **About Me!**
 - 🌱 I’m freshly graduated from the OpenClassrooms Python Developer course.
-<br/>
-<br/>
 
 - 👨🏽‍💻 I’m currently expanding my knowledge about Web development.
-<br/>
-<br/>
+
 - 🤔 My interests are Web stuff, integration with API's such as twitch or spotify.
-<br/>
-<br/>
+
 - 💼 I’m currently looking for job opportunities near Nantes or remote in python web dev.
-<br/>
-<br/>
+
 - 📫 if you want to reach out, you can [email me](mailto:remi.krommenaker@gmail.com)
 
 
