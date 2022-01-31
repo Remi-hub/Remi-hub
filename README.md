@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<i class="devicon-python-plain-wordmark"></i>
+
 <h1 title="hehehe"> Hey 👋, I'm Rémi !</h1>
 
 Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nantes, France.
@@ -46,4 +45,5 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 
 
 <img align="right" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=remi-hub&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
