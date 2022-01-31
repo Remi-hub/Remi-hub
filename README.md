@@ -1,9 +1,8 @@
 <h1 title="hehehe"> Hey 👋, I'm Rémi !</h1>
 
 Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nantes, France.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 - 🌱 I’m freshly graduated from the OpenClassrooms Python Developer course.
