@@ -45,5 +45,5 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 
 
 <img align="right" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=remi-hub&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="100" height="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
