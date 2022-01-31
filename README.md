@@ -21,5 +21,5 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 <h3>Languages and Tools<h3>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height"100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100px" height"100px" />
 
