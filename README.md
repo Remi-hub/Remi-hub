@@ -16,6 +16,8 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 
 - 📫 if you want to reach out, you can [email me](mailto:remi.krommenaker@gmail.com)
 
+<br/>
+<br/>
 <img align="right" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=remi-hub&theme=dark" />
 
 <h3>Languages and Tools<h3>
