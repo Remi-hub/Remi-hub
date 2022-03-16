@@ -29,3 +29,5 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
   <img width="75" height="75" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img width="75" height="75" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="75" height="75" viewBox="0 0 100 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  
+  https://www.codewars.com/users/Remi-hub/badges/small
