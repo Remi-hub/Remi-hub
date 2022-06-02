@@ -14,7 +14,7 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 
 - 🤔 My interests are Web stuff, integration with API's such as twitch or spotify.
 
-- 💼 I’m currently looking for job opportunities near Nantes or remote in python web dev.
+- 💼 I’m currently working at Ouivalo.
 
 - 📫 if you want to reach out, you can [email me](mailto:remi.krommenaker@gmail.com)
 
