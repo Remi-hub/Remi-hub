@@ -14,7 +14,7 @@ Hi there, I'm **Rémi Krommenaker**, a **junior python developer** 🚀 from Nan
 
 - 🤔 My interests are Web stuff, integration with API's such as twitch or spotify.
 
-- 💼 I’m currently working at Ouivalo.
+- 💼 I’m currently working looking for a job.
 
 - 📫 if you want to reach out, you can [email me](mailto:remi.krommenaker@gmail.com)
 
